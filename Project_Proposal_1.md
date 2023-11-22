@@ -5,4 +5,4 @@ Stellen Sie sich vor, Sie haben sehr lange gearbeitet und ganz auf die Einahme e
 
 Der Leberkäseautomat soll diese Herausforderungen angehen, indem er eine kontinuierliche Verfügbarkeit von frischem Leberkäse ermöglicht. Dieser Automat zielt darauf ab, nicht nur die Effizienz in der Verkaufsabwicklung zu steigern, sondern auch den Kundenzugang zu dieser beliebten Speise zu verbessern.
 
-[back](##Header.md)
+[back](Deckblatt.md)
