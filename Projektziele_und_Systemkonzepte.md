@@ -1,6 +1,6 @@
 
 
-### Projektziele:
+### Projektziele
 
 Ziel dieser Automaten ist es eine Versorgung an Leberkässemmerl an allen erdenklichen Orten zu ermöglichen. Egal zu welcher Zeit, immer frische, warme Leberkässemmel zur Verfügung zu haben.
 Durch Ortsnahe und Regionale Lieferanten (für Steyr z.B. die Fleischerei Pollhammer) soll ein qualitativ hochwertiges Produkt möglichst Umweltfreundlich zur verfügung gestellt werden.
