@@ -1,5 +1,6 @@
 ##Project Proposal
-###Lerberkäs-Automat          ![Logo](Logo_Leberkäsautomat.png)
+###Lerberkäs-Automat          
+![Logo](Logo_Leberkäsautomat.png)
 
 
 
