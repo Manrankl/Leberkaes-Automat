@@ -12,8 +12,20 @@ Die logistischen Aspekte sind ebenfalls entscheidend. Regelmäßige Befüllung d
 Die Verkaufsautomaten selbst müssen technisch einwandfrei sein, um einen reibungslosen Verkaufsprozess zu gewährleisten. Es sollte auch möglich sein mit Karte, also kontaktlos, zu bezahlen genauso wie mit Bargeld wo Scheine bis zum 50€ Schein akzeptiert werden. Dementsprechend muss auch genügend Wechselgeld verfügbar sein. 
 
 ###Kühlkette:
-Insbesondere bei einem Produkt wie Leberkässemmeln ist die Aufrechterhaltung einer kontinuierlichen Kühlkette von entscheidender Bedeutung, um die Frische und Sicherheit der Lebensmittel zu gewährleisten. Es gibt auch gesetzliche Bestimmungen im Bereich Qualität und Hygiene welche wir nicht nur einhalten sondern übertreffen werden.
+Insbesondere bei einem Produkt wie Leberkäse ist die Aufrechterhaltung einer kontinuierlichen Kühlkette von entscheidender Bedeutung, um die Frische und Sicherheit der Lebensmittel zu gewährleisten. Es gibt auch gesetzliche Bestimmungen im Bereich Qualität und Hygiene welche wir nicht nur einhalten sondern übertreffen werden.
 
 ##Einschränkungen
+
+###Regulatorische Anforderungen:
+Eines der Hauptprobleme könnte in den regulatorischen Anforderungen liegen. Lebensmittelvorschriften und Hygienebestimmungen müssen strikt eingehalten werden. Dies betrifft nicht nur die Qualität der Lebensmittel, sondern auch die korrekte Lagerung, Handhabung und Temperaturkontrolle, um sicherzustellen, dass die Leberkässemmeln stets sicher und frisch sind. Diese Vorschriften könnten sowohl zeitliche als auch finanzielle Hürden darstellen.
+
+###Kosten und Rentabilität:
+Die Investitionskosten für die Verkaufsautomaten sowie die regelmäßige Befüllung und Wartung können erheblich sein. Das Geschäftsmodell muss sorgfältig darauf abzielen, diese Kosten zu decken und gleichzeitig rentabel zu sein. Es erfordert eine genaue Kalkulation, um sicherzustellen, dass der Verkauf von Leberkässemmeln über Automaten rentabel ist, insbesondere wenn man die Betriebskosten und potenzielle Umsatzprognosen berücksichtigt.
+
+###Wettbewerb und Kundenpräferenzen:
+Der Lebensmittelmarkt ist oft wettbewerbsintensiv. Es könnte schwierig sein, sich gegen andere Essensangebote durchzusetzen, insbesondere wenn die Kunden bereits etablierte Präferenzen oder Gewohnheiten haben. Die Akzeptanz und Nachfrage nach Leberkässemmeln aus einem Automaten müssen möglicherweise durch Marketing- und Verkaufsförderungsstrategien gesteigert werden.
+
+###Technische Herausforderungen:
+Die Technologie der Automaten muss zuverlässig sein, um einen reibungslosen Verkaufsprozess zu gewährleisten. Technische Probleme könnten den Betrieb beeinträchtigen und erfordern möglicherweise sofortige Wartung oder Reparaturen, was die Betriebskosten erhöhen und zu Umsatzeinbrüchen führen könnte.
 
 [back](Deckblatt.md)
