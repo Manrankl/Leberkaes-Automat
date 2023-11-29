@@ -1,6 +1,23 @@
+#Vorschlag für Leberkäsesemmelautomat
+---
 
 
+  * **Notwendigkeit:** 
+  Eine bessere und vielseitigere Versorgung an Nahrung die rund um die Uhr an öffentlichen Orten zugänglich ist.
 
 
+* **Machbarkeit:** 
+ 1. Entwurf eines Automaten und dazugehörigen Wartungsplänen
+ 2. Lokalisierung der  Automatenstandorte
+ 3. Ausarbeitung der Lieferketten
+ 4. Preiskalkulation auf Basis der anfallenden Kosten(Wartung, Standortmiete,...)
 
+* **Bezahlbarkeit:**
+Anschaffung und Umbau von gebrauchten Automaten.
+Ausweitung der Automaten steigt mit zunehmender Nachfrage. Materialkosten durch regionale Zulieferer und recycling  gering. 
+
+* **Effekt auf Markt und Wirtschaft:**
+Flexible Einsatzorte der Automaten auf Basis des Kaufverhaltens. Nicht an Geschäftszeiten gebunden. Effizienter Personaleinsatz.
+
+---
 [Verzeichnis](Deckblatt.md)
