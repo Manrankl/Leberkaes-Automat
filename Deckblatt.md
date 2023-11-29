@@ -13,4 +13,3 @@
 2. [Rahmenbedingungen und Einschränkungen](Rahmenbedingungen_und_Einschränkungen.md)
 3. [Projektziele und Systemkonzepte](Projektziele_und_Systemkonzepte.md)
 4. [Chancen und Risiken](Chancen_und_Risiken.md)
-5. Planung
