@@ -24,6 +24,6 @@
 
 6. **Wetterabhängigkeit:** Ein Automat im Freien könnte wetterabhängig sein. Extremes Wetter wie starke Regenfälle oder Frost könnte die Funktionalität beeinträchtigen und die Nachfrage beeinflussen.
 
-Bevor Sie einen Leberkäsesemmelautomaten einführen, ist eine gründliche Marktanalyse, rechtliche Prüfung und die Entwicklung eines soliden Geschäftsplans wichtig, um die Chancen zu maximieren und die Risiken zu minimieren.
+Bevor wir einen Leberkäsesemmelautomaten einführen, ist eine gründliche Marktanalyse, rechtliche Prüfung und die Entwicklung eines soliden Geschäftsplans wichtig, um die Chancen zu maximieren und die Risiken zu minimieren.
 
 [back](Deckblatt.md)
